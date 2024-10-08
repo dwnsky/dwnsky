@@ -1,6 +1,5 @@
 <h1 align="center">Hey there! I'm dwnsky⋆˚✿˖°</h1>
 <h3 align="center">Future Software Engineer (?)</h3>
-<p align="left"> <a href="https://twitter.com/dwnskyy" target="blank"><img src="https://img.shields.io/twitter/follow/dwnskyy?logo=twitter&style=for-the-badge" alt="dwnskyy" /></a> </p>
 
 - 😭 I'm still trying to figure Github up.
 
