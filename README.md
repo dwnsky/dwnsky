@@ -1,8 +1,3 @@
-
-![ImageHeader](header.png)
-<h1 align="center">Hi 👋, I'm Dawn</h1>
-<h3 align="center">I'm a Software Engineering student</h3>
-
 <p align="left"> <a href="https://twitter.com/dwnskyy" target="blank"><img src="https://img.shields.io/twitter/follow/dwnskyy?logo=twitter&style=for-the-badge" alt="dwnskyy" /></a> </p>
 
 - 🌱 I’m currently learning **Java and Python**
