@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm dwnsky⋆˚✿˖°</h1>
 <h3 align="center">Future Software Engineer (?)</h3>
 
-- 😭 I'm still trying to figure Github up.
+- 😭 I'm still trying to figure out Github.
 
 - 🌱 I’m currently learning **Java and Python**
 
