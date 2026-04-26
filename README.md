@@ -1,15 +1,10 @@
 <h1 align="center">Hey there! I'm dwnsky⋆˚✿˖°</h1>
 <h3 align="center">Future Software Engineer (?)</h3>
 
-- 😭 I'm still trying to figure out Github.
-
-- 🌱 I’m currently learning **Java and Python**
-
-- 💬 Ask me about **anything but coding for now!**
-
-- 📫 How to reach me **dawnadonat@gmail.com**
-
-- ⚡ Fun fact **I LOVE animals (except for cockroaches - ew.)**
+<h4>Experiences</h4>
+<li>
+  <ul>Kitahack 2026</ul>
+</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
