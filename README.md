@@ -2,11 +2,9 @@
 <h3 align="center">Future Software Engineer (?)</h3>
 
 <h4>Experiences</h4>
-<li>
-  <ul>Kitahack 2026</ul>
-  <ul>BorNEO HackWknd 2026</ul>
-  <ul>More to come!</ul>
-</li>
+<li>Kitahack 2026</li>
+<li>BorNEO HackWknd 2026</li>             
+<li>More to come!</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
