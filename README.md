@@ -4,6 +4,8 @@
 <h4>Experiences</h4>
 <li>
   <ul>Kitahack 2026</ul>
+  <ul>BorNEO HackWknd 2026</ul>
+  <ul>More to come!</ul>
 </li>
 
 <h3 align="left">Connect with me:</h3>
